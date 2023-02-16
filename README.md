@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fermx3
 - 👀 I’m interested in Web Development mainly Front End but I also like Back End
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on large scale projects for Web Development
-- 📫 How to reach me hola@webloom.design
+- 📫 How to reach me hola@webloom.com.mx
 
 <!---
 fermx3/fermx3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
