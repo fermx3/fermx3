@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fermx3
-- 👀 I’m interested in Web Development mainly Front End but I also like Back End
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in Fron-End Web Development, I develop in React.js
+- 🌱 I’m currently learning Python just for fun
 - 💞️ I’m looking to collaborate on large scale projects for Web Development
 - 📫 How to reach me hola@webloom.com.mx
 
