@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fernando Rios
-- 👀 I’m interested in Fullstack Web Development, I currently develop in React.js
+- 👀 I’m interested in Fullstack Web Development and Data Science, I currently develop in React.js
 - 🌱 I’m currently coursing a bootcamp in Data Science in Le Wagon
 - 💞️ I’m looking to collaborate on large scale projects for Web Development and Data Science
 - 📫 How to reach me fer.riosalcantara@gmail.com
