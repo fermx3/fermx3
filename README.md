@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @fermx3
-- 👀 I’m interested in Fron-End Web Development, I develop in React.js
-- 🌱 I’m currently learning Python just for fun
-- 💞️ I’m looking to collaborate on large scale projects for Web Development
-- 📫 How to reach me hola@webloom.com.mx
+- 👋 Hi, I’m Fernando Rios
+- 👀 I’m interested in Fullstack Web Development, I currently develop in React.js
+- 🌱 I’m currently coursing a bootcamp in Data Science in Le Wagon
+- 💞️ I’m looking to collaborate on large scale projects for Web Development and Data Science
+- 📫 How to reach me fer.riosalcantara@gmail.com
 
 <!---
 fermx3/fermx3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
